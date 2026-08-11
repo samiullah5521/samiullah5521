@@ -28,7 +28,7 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [samijhattair@gmail.com](mailto:samijhattair@gmail.com)
 - GitHub: [https://github.com/samiullah5521](https://github.com/samiullah5521)
 
 ---
