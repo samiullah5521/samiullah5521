@@ -29,6 +29,7 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 ## Contact
 
 - Email: [samijhattair@gmail.com](mailto:samijhattair@gmail.com)
+- LinkedIn: [Samiullah](https://www.linkedin.com/in/sami-ullah-2467303b1)
 - GitHub: [https://github.com/samiullah5521](https://github.com/samiullah5521)
 
 ---
