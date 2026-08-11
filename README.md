@@ -6,10 +6,10 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ## About me
 
-- 🔭 I’m currently working on: personal projects and learning full-stack development
-- 🌱 I’m currently learning: JavaScript, Node.js, and modern web development
-- 👯 I’m looking to collaborate on: beginner-friendly open-source projects
-- 💬 Ask me about: web development basics, JavaScript, or how to get started with GitHub
+- 🔭 I’m currently working on: data analysis projects and building my portfolio
+- 🌱 I’m currently learning: advanced SQL, Power BI, and applied machine learning
+- 👯 I’m looking to collaborate on: data-focused projects and analyses
+- 💬 Ask me about: Python, SQL, Power BI, data cleaning, and visualization
 
 ## Skills
 
@@ -24,10 +24,7 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ## Projects
 
-- Project A — short description and link
-- Project B — short description and link
-
-(You can add project links below in the Projects section.)
+- Projects coming soon — I will add completed analysis and dashboards here once ready.
 
 ## Contact
 
@@ -72,7 +69,7 @@ Here are the most common ways to add links using Markdown. Copy and paste the ex
 
 If you'd like, I can:
 
-- Add your real projects and links into the Projects section
+- Add your real projects and links into the Projects section when you're ready
 - Add social icons (LinkedIn, Twitter) or badges
 - Show how to create a GitHub profile README with dynamic contribution stats
 
