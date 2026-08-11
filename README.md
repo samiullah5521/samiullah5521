@@ -13,9 +13,14 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ## Skills
 
-- Languages: JavaScript, HTML, CSS
-- Tools: Git, GitHub, VS Code
-- Learning: Node.js, React
+- Python — Proficient
+- SQL — Advanced
+- Power BI — Proficient
+- Excel — Advanced
+- Pandas — Proficient
+- NumPy — Proficient
+- Data Visualization — Proficient
+- Machine Learning — Familiar
 
 ## Projects
 
