@@ -1,6 +1,6 @@
 # Samiullah — Data Analyst 👋
 
-I'm Samiullah, a Data Analyst focused on turning data into actionable insights. Welcome to my GitHub profile — below you'll find a summary of my skills, projects, and how to contact me.
+Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable insights to support data-driven decisions and am seeking analyst roles.
 
 ---
 
