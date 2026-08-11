@@ -1,6 +1,6 @@
-# Hi there 👋
+# Samiullah — Data Analyst 👋
 
-I'm Samiullah — welcome to my GitHub profile! I'm a developer learning and building projects. Below you'll find a quick summary of who I am, what I work on, and how to contact me.
+I'm Samiullah, a Data Analyst focused on turning data into actionable insights. Welcome to my GitHub profile — below you'll find a summary of my skills, projects, and how to contact me.
 
 ---
 
