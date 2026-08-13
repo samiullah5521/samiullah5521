@@ -26,13 +26,17 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ### Data Engineering Projects
 
-- ETL Pipeline for Structured Data — Building reliable ingestion and transformation pipelines using Python and SQL (coming soon).
-- Data Warehouse Design & Implementation — Designing schemas and loading cleaned data into a warehouse for analytics (coming soon).
+| Project | Tools used | Description |
+| --- | --- | --- |
+| ETL Pipeline for Structured Data | Python, SQL, Airflow | Building reliable ingestion and transformation pipelines for cleaning and loading structured data (coming soon). |
+| Data Warehouse Design & Implementation | PostgreSQL / Redshift, dbt, SQL | Designing star/snowflake schemas and loading cleaned data into a warehouse for analytics (coming soon). |
 
 ### Data Analytics Projects
 
-- Sales Analysis Dashboard — Exploratory analysis and interactive Power BI dashboard for sales trends and KPIs (coming soon).
-- Customer Segmentation & Insights — Clustering and behavioral analysis using Python to drive marketing decisions (coming soon).
+| Project | Tools used | Description |
+| --- | --- | --- |
+| Sales Analysis Dashboard | Python, Pandas, Power BI | Exploratory analysis and interactive Power BI dashboard showing sales trends, KPIs, and forecasts (coming soon). |
+| Customer Segmentation & Insights | Python, scikit-learn, Pandas | Clustering and behavioral analysis to create customer segments and actionable insights for marketing (coming soon). |
 
 ## Contact
 
