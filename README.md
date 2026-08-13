@@ -28,9 +28,8 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 | Project | Tools used | Description |
 | --- | --- | --- |
-| [Data Warehouse Repo](https://github.com/samiullah5521/Data-Warehouse_project) | PostgreSQL, dbt, SQL, Python | See the data warehouse repo README for full details. |
-| ETL Pipeline for Structured Data | Python, SQL, Airflow | Building reliable ingestion and transformation pipelines for cleaning and loading structured data (coming soon). |
-| Data Warehouse Design & Implementation | PostgreSQL / Redshift, dbt, SQL | Designing star/snowflake schemas and loading cleaned data into a warehouse for analytics (coming soon). |
+| [Data Warehouse ](https://github.com/samiullah5521/Data-Warehouse_project) | sql server, notion, SQL| A SQL Server-based data warehouse project implementing Medallion Architecture (Bronze / Silver / Gold) with ETL scripts, star-schema data modeling, and SQL analytics for sales, products, and customer insights |
+
 
 ### Data Analytics Projects
 
