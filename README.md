@@ -24,7 +24,15 @@ Data Analyst skilled in Python, SQL, and Power BI; I turn data into actionable i
 
 ## Projects
 
-- Projects coming soon — I will add completed analysis and dashboards here once ready.
+### Data Engineering Projects
+
+- ETL Pipeline for Structured Data — Building reliable ingestion and transformation pipelines using Python and SQL (coming soon).
+- Data Warehouse Design & Implementation — Designing schemas and loading cleaned data into a warehouse for analytics (coming soon).
+
+### Data Analytics Projects
+
+- Sales Analysis Dashboard — Exploratory analysis and interactive Power BI dashboard for sales trends and KPIs (coming soon).
+- Customer Segmentation & Insights — Clustering and behavioral analysis using Python to drive marketing decisions (coming soon).
 
 ## Contact
 
